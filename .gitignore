@@ -12,6 +12,7 @@
 *.class
 
 # Generated files
+desktop.ini
 bin/
 gen/
 out/
